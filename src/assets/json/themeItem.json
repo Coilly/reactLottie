@@ -1,0 +1,31 @@
+[
+  {
+    "id": "animation01",
+    "item": [
+      {
+        "id": "action01",
+        "src": "./assets/json/animation01.json",
+        "message": [
+          {
+            "text": "test1"
+          },
+          {
+            "text": "test2"
+          }
+        ]
+      },
+      {
+        "id": "action02",
+        "src": "./assets/json/animation02.json",
+        "message": [
+          {
+            "text": "test3"
+          },
+          {
+            "text": "test4"
+          }
+        ]
+      }
+    ]
+  }
+]
